@@ -7,7 +7,7 @@ This website is part of the project for a subject **IT Tools**.
 My name is Patrycja and I'm eighteen years old. In my free time (or rather *if i have time besides studying*) i enjoy hiking, meeting with my friends and 
 reading books, especially literary fiction and fantasy.
 
-[List of my favorite books](./another-page.html).
+[List of my favorite books](https://p4trvcja.github.io/another-page.html).
 
 
 ## What about the project?
