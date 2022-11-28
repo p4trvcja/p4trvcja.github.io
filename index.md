@@ -21,7 +21,7 @@ Our version of the game will contain additional aspects which will diversify the
 |:-------------|:------------------|:------|
 | no life preservers | 50/50, a phone to a friend | not yet |
 | boring sound effects | gripping sound effects | not yet |
-| real money which you can win | no real money but satisfaction | not yet |
+| real money that you can win | no money but satisfaction | not yet |
 
 
 ## In the future...
