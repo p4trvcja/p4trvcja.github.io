@@ -1,5 +1,5 @@
 # Welcome to my website
-I'm a first-year Computer Science and Intelligent Systems student at AGH UST.
+I'm a first-year Computer Science and Intelligent Systems student at AGH UST in Cracow.
 This website is part of the project for a subject **IT Tools**.
 
 
@@ -9,7 +9,12 @@ reading books, especially literary fiction and fantasy.
 
 
 ## What about the project?
-My wonderful team and I decided to create a quiz game based on a popular show **_Million dollar money drop_**, where the aim is to answer correctly to 10 questions and win **as many money as possible**. The trick is that each answer option corresponds to a different trapdoor and only one answer is correct. The contestants have a fixed amount of time to distribute all the money among the drops as they see fit; however, they were required to leave at least one drop "clear", meaning that **no money may be allocated on at least one answer**.
+My team "Milionerzy" (ang. millionaires) and I decided to create a quiz game based on a popular show **"Million dollar money drop"**, where the aim is to answer correctly to 10 questions and win as many money as possible. The trick is that each answer option corresponds to a different trapdoor and only one answer is correct. The contestants have a fixed amount of time to distribute all the money among the drops as they see fit; however, they were required to leave at least one drop "clear", meaning that no money may be allocated on at least one answer.
 [More Info](https://en.wikipedia.org/wiki/Million_Dollar_Money_Drop)
 
 Our version of the game will contain additional aspects which will diversify the contest.
+
+## In the future...
+What will the future bring? Noone knows. But my plans are to pass this semester and learn how to code.
+
+Stay tuned! Maybe our game will enter the market and sooner or later we'll become millionaires.
