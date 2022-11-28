@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## My favorite books
 - The Nickel Boys - Colson Whitehead
 - 1984 - George Orwell
