@@ -3,8 +3,6 @@
 I'm a first-year Computer Science and Intelligent Systems student at AGH UST in Cracow.
 This website is part of the project for a subject **IT Tools**.
 
-![](https://github.com/p4trvcja/p4trvcja.github.io/blob/main/images/starry_night.jpg)
-
 ## Something about me
 My name is Patrycja and I'm eighteen years old. In my free time (or rather *if i have time besides studying*) i enjoy hiking, meeting with my friends and 
 reading books, especially literary fiction and fantasy.
