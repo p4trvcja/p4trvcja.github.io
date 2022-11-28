@@ -3,6 +3,7 @@
 I'm a first-year Computer Science and Intelligent Systems student at AGH UST in Cracow.
 This website is part of the project for a subject **IT Tools**.
 
+![](https://github.com/p4trvcja/p4trvcja.github.io/blob/main/images/starry_night.jpg)
 
 ## Something about me
 My name is Patrycja and I'm eighteen years old. In my free time (or rather *if i have time besides studying*) i enjoy hiking, meeting with my friends and 
@@ -25,6 +26,6 @@ Our version of the game will contain additional aspects which will diversify the
 
 
 ## In the future...
-What will the future bring? Noone knows. But my plans are to pass this semester and learn how to code.
+What will the future bring? No one knows. But my plans are to pass this semester and learn how to code.
 
 Stay tuned! Maybe our game will enter the market and sooner or later we'll become millionaires.
