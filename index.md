@@ -17,12 +17,12 @@ My team "Milionerzy" (ang. millionaires) and I decided to create a quiz game bas
 
 Our version of the game will contain additional aspects which will diversify the contest.
 
-| what is originally in the game| what will be added| done? |
+| what is originally in the game| what will be added/updated| done? |
 |:-------------|:------------------|:------|
-| no lifepreservers | 50/50, a phone to a friend | not yet |
-|  |  | not yet |
-|  |  | not yet |
-|  |  | not yet |
+| no life preservers | 50/50, a phone to a friend | not yet |
+| boring sound effects | gripping sound effects | not yet |
+| real money which you can win | no real money but satisfaction | not yet |
+
 
 ## In the future...
 What will the future bring? Noone knows. But my plans are to pass this semester and learn how to code.
