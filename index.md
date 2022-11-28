@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Welcome to my website
 I'm a first-year Computer Science and Intelligent Systems student at AGH UST in Cracow.
 This website is part of the project for a subject **IT Tools**.
@@ -15,6 +20,13 @@ My team "Milionerzy" (ang. millionaires) and I decided to create a quiz game bas
 [More Info](https://en.wikipedia.org/wiki/Million_Dollar_Money_Drop)
 
 Our version of the game will contain additional aspects which will diversify the contest.
+
+| what is originally in the game| what will be added| done? |
+|:-------------|:------------------|:------|
+| no lifepreservers | 50/50, a phone to a friend | not yet |
+|  |  | not yet |
+|  |  | not yet |
+|  |  | not yet |
 
 ## In the future...
 What will the future bring? Noone knows. But my plans are to pass this semester and learn how to code.
