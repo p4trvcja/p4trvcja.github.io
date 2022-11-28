@@ -1,7 +1,3 @@
----
-layout: default
----
-
 
 # Welcome to my website
 I'm a first-year Computer Science and Intelligent Systems student at AGH UST in Cracow.
