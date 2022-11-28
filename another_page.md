@@ -4,6 +4,7 @@
 - Animal Farm - George Orwell
 - Crime and punishment - Fyodor Dostoevski
 - Wrony - Petra Dvorakova
-- The Poppy war - Rebecca F. Kuang
+- The Poppy War - Rebecca F. Kuang
+- The Last Wish - Andrzej Sapkowski
 
-[back](./)
+[back](https://p4trvcja.github.io/)
