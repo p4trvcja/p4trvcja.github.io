@@ -7,6 +7,8 @@ This website is part of the project for a subject **IT Tools**.
 My name is Patrycja and I'm eighteen years old. In my free time (or rather *if i have time besides studying*) i enjoy hiking, meeting with my friends and 
 reading books, especially literary fiction and fantasy.
 
+[List of my favorite books](./another-page.html).
+
 
 ## What about the project?
 My team "Milionerzy" (ang. millionaires) and I decided to create a quiz game based on a popular show **"Million dollar money drop"**, where the aim is to answer correctly to 10 questions and win as many money as possible. The trick is that each answer option corresponds to a different trapdoor and only one answer is correct. The contestants have a fixed amount of time to distribute all the money among the drops as they see fit; however, they were required to leave at least one drop "clear", meaning that no money may be allocated on at least one answer.
