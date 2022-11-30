@@ -10,17 +10,17 @@ reading books, especially literary fiction and fantasy.
 <details>
   <summary>click here</summary>
   
-- 1984 - George Orwell
-- Animal Farm - George Orwell
-- The Nickel Boys - Colson Whitehead
-- Crime and punishment - Fyodor Dostoevski
-- Crows - Petra Dvorakova
-- The Poppy War - Rebecca F. Kuang
-- The Last Wish - Andrzej Sapkowski
+- 1984 - George Orwell,
+- Animal Farm - George Orwell,
+- The Nickel Boys - Colson Whitehead,
+- Crime and punishment - Fyodor Dostoevski,
+- Crows - Petra Dvorakova,
+- The Poppy War - Rebecca F. Kuang,
+- The Last Wish - Andrzej Sapkowski.
 
 </details>
 
-![](https://github.com/p4trvcja/p4trvcja.github.io/blob/main/starry_night.png)
+![](https://github.com/p4trvcja/p4trvcja.github.io/blob/main/starry_night.jpg)
 
 ## What about the project?
 My team "Milionerzy" (ang. millionaires) and I decided to create a quiz game based on a popular show **"Million dollar money drop"**, where the aim is to answer correctly to 10 questions and win as many money as possible. The trick is that each answer option corresponds to a different trapdoor and only one answer is correct. The contestants have a fixed amount of time to distribute all the money among the drops as they see fit; however, they were required to leave at least one drop "clear", meaning that no money may be allocated on at least one answer.
